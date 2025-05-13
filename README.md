@@ -10,4 +10,8 @@ intento, se dan pistas si el número es mayor o menor.
 ## Cómo ejecutar
 ```bash
 
+## Autores
+
+Ignacio Sifon 
+
 python juego.py
